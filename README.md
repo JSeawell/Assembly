@@ -1,6 +1,9 @@
 # Assembly
 A series of programs written in Assembly Language (MASM)
 
+> # What I leared:
+> dfhskh
+
 > # Program 1:
 > ## How to compile:
 > skkfk
@@ -37,6 +40,3 @@ A series of programs written in Assembly Language (MASM)
 > skkfk
 > ## How to run:
 > skkfk
-
-> ## What I leared:
-> dfhskh
