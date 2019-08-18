@@ -1,9 +1,6 @@
 # Assembly
 A series of programs written in Assembly Language (MASM)
 
-> # What I leared:
-> dfhskh
-
 > # Program 1 - Integer Arithmetic
 > Asks user to enter 2 integers. Calculatesand diplays the sum, difference, product, and quotient/remainder of those numbers.
 > ## What I learned:
