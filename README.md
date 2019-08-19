@@ -30,14 +30,16 @@ A series of programs written in Assembly Language (MASM)
 > 1. Nested loops  
 > 2. Procedures
 
-> # Program 5 - 
-> ## How to compile:
-> skkfk
-> ## How to run:
-> skkfk
+> # Program 5 - Sorted Array
+> Asks user how large to make an array, then for that number of integers. Displays the numbers in given order, then sorts the numbers and displays the sorted order, then displays the median value.
+> ## What I learned:
+> 1. Register indirect addressing  
+> 2. Passing parameters  
+> 3. Arrays
 
-> # Program 6 - 
-> ## How to compile:
-> skkfk
-> ## How to run:
-> skkfk
+> # Program 6 - String Converter
+> Asks user for a string of digits, then converts the string into integers, validates them, and converts them back into a string, which is displayed back to the user.
+> ## What I learned:
+> 1. Macros  
+> 2. System stack  
+> 3. stosb/lodsb (store & load)
