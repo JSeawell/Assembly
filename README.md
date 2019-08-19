@@ -1,6 +1,6 @@
 # Assembly
 
-> CS-271 (Computer Architecture & Assembly Language) Program
+> CS-271 (Computer Architecture & Assembly Language)
 
 A series of programs written in Assembly Language (MASM)
 
