@@ -2,7 +2,7 @@
 A series of programs written in Assembly Language (MASM)
 
 > # Program 1 - Integer Arithmetic
-> Asks user to enter 2 integers. Calculatesand diplays the sum, difference, product, and quotient/remainder of those numbers.
+> Asks user to enter 2 integers. Calculates and diplays the sum, difference, product, and quotient/remainder of those numbers.
 > ## What I learned:
 > 1. MASM language  
 > 2. Defining/Initializing variables  
