@@ -7,7 +7,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 1 - Integer Arithmetic
 > Asks user to enter 2 integers. Calculates and diplays the sum, difference, product, and quotient/remainder of those numbers.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. MASM language  
 > 2. Defining/Initializing variables  
 > 3. I/O libraries  
@@ -18,7 +18,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 2 - Fibonacci Numbers
 > Asks user to enter how many Fib #'s, then displays that many Fib #'s to the screen.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. String input  
 > 2. Counted loops  
 > 3. Post-test loops  
@@ -27,7 +27,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 3 - Accumulator
 > Asks user to continually enter integers. As soon as a negative integer is entered, the previous integers are averaged. The quantity, the sum, and the average of the integers is displayed to the user.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. Data validation  
 > 2. Accumulators  
 > 3. Control structures  
@@ -37,7 +37,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 4 - Composite Numbers
 > Asks user how many composites to calculate, then for an integer. Calculates that given number of composites, up to the integer given.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. Nested loops  
 > 2. Procedures  
 > 3. Binary arithmetic  
@@ -48,7 +48,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 5 - Sorted Array
 > Asks user how large to make an array, then for that number of integers. Displays the numbers in given order, then sorts the numbers and displays the sorted order, then displays the median value.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. Register indirect addressing  
 > 2. Passing parameters  
 > 3. Arrays  
@@ -56,7 +56,7 @@ A series of programs written in Assembly Language (MASM)
 
 > # Program 6 - String Converter
 > Asks user for a string of digits, then converts the string into integers, validates them, and converts them back into a string, which is displayed back to the user.
-> ## Concepts learned/used:  
+> ## Tech and/or concepts learned/used:  
 > 1. Macros  
 > 2. System stack  
 > 3. stosb/lodsb (store & load)
