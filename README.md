@@ -3,7 +3,7 @@
 > CS-271 (Computer Architecture & Assembly Language)
 
 A series of programs written in Assembly Language (MASM)  
-- All programs were ran and tested in Visual Studio IDE
+> - All programs ran and tested in Visual Studio IDE
 
 > # Program 1 - Integer Arithmetic
 > Asks user to enter 2 integers. Calculates and diplays the sum, difference, product, and quotient/remainder of those numbers.
